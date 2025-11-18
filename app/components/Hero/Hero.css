@@ -1,0 +1,11 @@
+.hero-container{
+    display: flex;
+    justify-content: center;
+}
+
+.hero-video {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+
